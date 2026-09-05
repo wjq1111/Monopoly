@@ -1,0 +1,15 @@
+# Godot generated cache. Keep .gd.uid files in version control.
+.godot/
+# Local logs and exports.
+.artifacts/
+build/
+exports/
+*.log
+# Machine-local editor and environment files.
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
